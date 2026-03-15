@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-  # 🇰🇷🇨🇦 SFU AKCSE
+  # SFU AKCSE
   ### Association of Korean Canadian Scientists and Engineers at Simon Fraser University
   #### 사이먼 프레이저 대학교 재캐나다 한인과학기술자협회
 
