@@ -5,8 +5,8 @@
   ### Association of Korean Canadian Scientists and Engineers @ Simon Fraser University
   #### 사이먼 프레이저 대학교 재캐나다 한인과학기술자협회
 
-  [![Website](https://img.shields.io/badge/Website-SFU%20AKCSE-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website-link.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-@sfu_akcse-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_handle)
+  [![Website](https://img.shields.io/badge/Website-SFU%20AKCSE-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sfu-akcse.github.io/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@sfu_akcse-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akcse.sfu/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-AKCSE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/your-link)
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
