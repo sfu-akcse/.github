@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="../akcse-sfu-logo.png" width="200" alt="SFU AKCSE Logo">
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+  <img src="../akcse-sfu-logo.png" width="200" alt="SFU AKCSE Logo">
 
   # AKCSE SFU
   ### Association of Korean Canadian Scientists and Engineers @ Simon Fraser University
